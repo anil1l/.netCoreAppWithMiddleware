@@ -1,0 +1,10 @@
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\bin\Debug\netcoreapp3.1\PayrollService.Model.deps.json
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\bin\Debug\netcoreapp3.1\PayrollService.Model.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\bin\Debug\netcoreapp3.1\PayrollService.Model.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.csproj.AssemblyReference.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.AssemblyInfoInputs.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.AssemblyInfo.cs
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.csproj.CoreCompileInputs.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.Model\obj\Debug\netcoreapp3.1\PayrollService.Model.pdb

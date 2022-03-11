@@ -1,0 +1,15 @@
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.Core.deps.json
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.Core.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.Core.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.Model.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\bin\Debug\netcoreapp3.1\PayrollService.Model.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.csproj.AssemblyReference.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.AssemblyInfoInputs.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.AssemblyInfo.cs
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.csproj.CoreCompileInputs.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.csproj.CopyComplete
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.Core\obj\Debug\netcoreapp3.1\PayrollService.Core.pdb

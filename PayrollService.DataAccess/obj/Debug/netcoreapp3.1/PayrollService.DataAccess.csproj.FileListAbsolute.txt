@@ -1,0 +1,16 @@
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.deps.json
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.Model.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.Model.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.csproj.AssemblyReference.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.AssemblyInfo.cs
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.csproj.CopyComplete
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.dll
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.pdb
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.runtimeconfig.json
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\bin\Debug\netcoreapp3.1\PayrollService.DataAccess.runtimeconfig.dev.json
+C:\Users\200506\source\repos\PayrollService\PayrollService.DataAccess\obj\Debug\netcoreapp3.1\PayrollService.DataAccess.genruntimeconfig.cache
